@@ -5,7 +5,7 @@ import ItemTimer from './item_timer/ItemTimer'
 class Timer extends Component {
     render() {
         return (
-            <div className="timer">
+            <div id="timer" className="timer">
 
 
                 <h3>Contagem Regressiva</h3>

@@ -9,11 +9,12 @@ class Nav extends Component {
           <img src="http://themes.startbootstrap.com/vitality-v2.1.0/img/agency/logo.svg" alt="" />
 
           <ul>
-            <li><a href="#">Lorem</a></li>
-            <li><a href="#">Ipsum</a></li>
-            <li><a href="#">Dolor</a></li>
-            <li><a href="#">Consectetur</a></li>
-            <li><a href="#">Adipiscing</a></li>
+            <li><a href="#timer">Timer</a></li>
+            <li><a href="#yarn">Tópico</a></li>
+            <li><a href="#conteudo">Conteudo</a></li>
+            <li><a href="#sociais">Sociais</a></li>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#carrossel">Slides</a></li>
           </ul>
         </div>
       </div>

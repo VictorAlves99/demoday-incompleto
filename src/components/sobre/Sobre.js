@@ -6,7 +6,7 @@ import img from './img/piratebay.jpg'
 class Sobre extends Component {
     render() {
         return (
-            <div className="sobre">
+            <div id='sobre' className="sobre">
                 <div className="titulo">
                     <h2>Lorem ipsum pharetra eu suscipit luctus primis</h2>
                     <p> Lorem ipsum pharetra eu suscipit luctus primis 

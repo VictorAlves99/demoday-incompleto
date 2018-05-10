@@ -7,7 +7,7 @@ class Lorem extends Component {
   render() {
 
     return (
-      <div>       
+      <div id='yarn'>       
         <ItemLorem 
           type={false} 
           imagem="http://www.stackoverflowbusiness.com/hubfs/B2B-SO/Sales/Images/Home/Educate-BuildAwareness.svg?t=1525446690975" 

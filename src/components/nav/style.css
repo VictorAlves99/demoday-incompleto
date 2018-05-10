@@ -35,8 +35,9 @@
     color: yellow; 
     text-decoration: none;
     margin: 0px;    
-    font-size: 26px;
-    -webkit-text-stroke-width: 1.1px ; /* largura da borda */
+    font-size: 30px;
+    font-weight: bold;
+    -webkit-text-stroke-width: 2px ; /* largura da borda */
     -webkit-text-stroke-color: #000; /*cor da borda*/     
 }
 

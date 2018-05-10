@@ -7,7 +7,7 @@ import Carousell from 'nuka-carousel';
 class Carousel extends Component {
     render() {
         return (
-            <div className="carousel">
+            <div id="carrossel" className="carousel">
                 <Carousell>
                    <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide1" />
                     <img src="http://placehold.it/1000x400/ffffff/c0392b/&text=slide2" />
