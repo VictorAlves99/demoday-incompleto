@@ -8,6 +8,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding-top: 40px;
 }
 
 .banner img {
@@ -24,6 +25,7 @@
     font-size: initial;
     padding: 0px;
     margin:  0px;  
+    font-size: 24px;
 }
 
 .banner h2 {
@@ -32,5 +34,6 @@
     font-family: initial;
     font-size: initial;
     padding: 0px;
-    margin:  0px;  
+    margin:  0px;
+    font-size:24px;  
 }

@@ -32,7 +32,16 @@
 }
 
 .menu ul li a {
-    color: white;    
+    color: yellow; 
     text-decoration: none;
-    margin: 0px;
+    margin: 0px;    
+    font-size: 26px;
+    -webkit-text-stroke-width: 1.1px ; /* largura da borda */
+    -webkit-text-stroke-color: #000; /*cor da borda*/     
+}
+
+.menu ul li a:hover{
+    background-color: transparent;
+    color: #000;
+    -webkit-text-stroke-color:yellow;
 }
